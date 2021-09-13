@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ekaandre
-- 👀 I’m interested in UI/UX Desainer, Front-End Developer
-- 🌱 I’m currently learning Sass, React js
+- 👀 I’m interested in UI/UX Designer, Front-End Developer
+- 🌱 I’m currently learning Sass, Figma, Adobe XD
 - 📫 How to reach me ekaandreansyahofficial@gmail.com
